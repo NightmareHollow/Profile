@@ -5,16 +5,19 @@ Profile link:
 [LinkedIn Portfolio](https://www.linkedin.com/in/anton-cernyavskiy-8a7995209/details/projects/)
 
 Additional links (Projects):
+1. MyNFTWars (WebGL, Blockchain, NFT, Multiplayer, AI, Gameplay):
 
-1. Little Sim World (AI - NPC, building system):
+[Website Link](https://www.mynftwars.com/)
+
+3. Little Sim World (AI - NPC, building system):
 
 [Steam Link](https://store.steampowered.com/app/1429880/Little_Sim_World/)
 
 [YouTube gameplay walkthrough](https://www.youtube.com/watch?v=f4q46HIgAWk)
 
-2. Unannounced midcore project (Multiplayer core - Lobbies, Relay, Netcode for GameObjects).
+3. Unannounced midcore project (Multiplayer core - Lobbies, Relay, Netcode for GameObjects).
 
-3. Hashiriya Drifter (Multiplayer- Photon):
+4. Hashiriya Drifter (Multiplayer- Photon):
 
 [Steam Link](https://store.steampowered.com/app/1336560/Hashiriya_DrifterOnline_Drift_Racing_Multiplayer_DRIFTDRAGRACING/)
 
