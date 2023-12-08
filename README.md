@@ -22,3 +22,6 @@ Additional links (Projects):
  5. Mutagen.IO (AI, Gameplay, Core, Features, Game development full cycle):
 [Google Play Link](https://play.google.com/store/apps/details?id=com.riloat.mutagen&hl=en_US)
 [App Store Link](https://apps.apple.com/us/app/mutagen-io/id1660289707)
+
+ 6. Beuty Merge (AI, Gameplay): 
+[Google Play Link](https://play.google.com/store/apps/details?id=com.trymygames.beautymerge&hl=en_US)
